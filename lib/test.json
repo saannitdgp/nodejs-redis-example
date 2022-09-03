@@ -1,0 +1,9 @@
+{
+    "MessageAttributes": {
+        "sendDate": "2021-09-08T06:47:21.965Z",
+        "txId": {
+            "DataType": "String",
+            "StringValue": "2f9c17a2-c8e7-477d-bf2c-27c00ea74ea9"
+          }
+    }
+}
